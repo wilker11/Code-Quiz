@@ -4,10 +4,10 @@
     top: 20%;
     width: 500px;
     height: 500px;
-    border: 10px solid rgb(2, 255, 86);
+    border: 10px solid rgba(2, 255, 86, 0.801);
 }
 #startTime {
-    background-color: rgb(79, 102, 82);
+    background-color: rgb(51, 61, 52);
     margin-left: 33%;
     padding: 15px 32px;
     font-size: 20px;
@@ -22,7 +22,7 @@
 }
 
 #goBack {
-    background-color: rgb(250, 114, 3);
+    background-color: rgb(253, 124, 18);
     position: relative;
     padding: 10px;
     font-size: 20px;
